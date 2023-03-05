@@ -1,0 +1,7 @@
+{
+  "name": "Simple Ionic Project",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
